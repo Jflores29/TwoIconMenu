@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_steak"
+        android:icon="@drawable/icons"
+        android:title="@string/title_Steak"/>
+
+
+    <item
+        android:id="@+id/item_lobster"
+        android:icon="@color/colorPrimaryDark"
+        android:title="@string/title_Lobster"/>
+
+
+
+</menu>
